@@ -25,11 +25,10 @@ The final, optimized model provides high confidence in predicting churn risk:
 
 The table below displays the key visualizations from the project, including the correlation between features and the importance of each feature in the final model's predictions.
 
-> **⚠️ NOTE on Images:** The original filenames contain spaces and special characters (`Screenshot...`, `image_db2e5d.png`) which can fail to render on platforms like GitHub. Please rename your files (e.g., to `correlation_heatmap.png` and `feature_importance.png`) and update the paths below, or commit the original files to the exact paths shown.
 
 | Correlation Matrix | Feature Importance Plot |
 | :---: | :---: |
-| <img src="images/Screenshot 2025-10-21 143119.png" alt="Correlation Heatmap" width="350"/> | <img src="image_db2e5d.png" alt="Feature Importance" width="350"/> |
+| <img src="images/Screenshot%202025-10-21%20175405.png" alt="Correlation Heatmap" width="350"/> | <img src="image_db2e5d.png" alt="Feature Importance" width="350"/> |
 
 ---
 
