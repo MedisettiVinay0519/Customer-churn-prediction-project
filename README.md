@@ -28,7 +28,7 @@ The table below displays the key visualizations from the project, including the 
 
 | Correlation Matrix | Feature Importance Plot |
 | :---: | :---: |
-| <img src="images/Screenshot%202025-10-21%20175405.png" alt="Correlation Heatmap" width="350"/> | <img src="image_db2e5d.png" alt="Feature Importance" width="350"/> |
+| <img src="images/Screenshot%202025-10-21%20175405.png" alt="Correlation Heatmap" width="350"/> | <img src="images/Screenshot%202025-10-21%20175738.png" alt="Feature Importance" width="350"/> |
 
 ---
 
